@@ -1,2 +1,0 @@
-# pickingNumbers
-Created with CodeSandbox
